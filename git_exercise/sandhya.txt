@@ -1,1 +1,3 @@
 
+hello iam sandhya in 3rd year from cse (aiml).
+currently im learning python and trying to work on backend for this alert aura project!!
